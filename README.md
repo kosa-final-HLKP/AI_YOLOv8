@@ -24,6 +24,9 @@
 
 # Important
 - Routes in the code must be changed to suit your settings
+- We created two model learning methods
+- The YOLOv8-model_IDG.ipynb file was trained by image augmentation using ImageDataGenerator.
+- On the other hand, the YOLOv8_model.ipynb is a file where image augmentation has learned the model.
 
 
 # 0. Google Mount
